@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 5555
+=======
+>>>>>>> branch 'master' of https://github.com/seniya2/study2.git
